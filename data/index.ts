@@ -140,34 +140,34 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "./cloud.svg",
+    name: "IEEE",
+    img: "./eee.svg",
     nameImg: "./cloudName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "./app.svg",
+    name: "Dhwani",
+    img: "./dhwani-logo.png",
     nameImg: "./appName.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "./host.svg",
+    name: "AWC Software",
+    img: "./awc-logo.png",
     nameImg: "./hostName.svg",
   },
   {
     id: 4,
-    name: "stream",
-    img: "./s.svg",
+    name: "Navyug",
+    img: "./Navyug-Logo.png",
     nameImg: "./streamName.svg",
   },
-  {
-    id: 5,
-    name: "docker.",
-    img: "./dock.svg",
-    nameImg: "./dockerName.svg",
-  },
+  // {
+  //   id: 5,
+  //   name: "docker.",
+  //   img: "./dock.svg",
+  //   nameImg: "./dockerName.svg",
+  // },
 ];
 
 export const workExperience = [
@@ -207,16 +207,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "./git.svg",
-    link: "www.github.com"
+    link: "https://github.com/SharmaRajan/"
   },
   {
     id: 2,
     img: "./twit.svg",
-    link: "www.google.com"
+    link: "https://x.com/RajanS5259"
   },
   {
     id: 3,
     img: "./link.svg",
-    link: "www.linkedin.com"
+    link: "https://www.linkedin.com/in/rajan-kumar-sharma-709a17229/"
   },
 ];
