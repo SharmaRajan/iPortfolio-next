@@ -141,32 +141,32 @@ export const companies = [
   {
     id: 1,
     name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    img: "./cloud.svg",
+    nameImg: "./cloudName.svg",
   },
   {
     id: 2,
     name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    img: "./app.svg",
+    nameImg: "./appName.svg",
   },
   {
     id: 3,
     name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    img: "./host.svg",
+    nameImg: "./hostName.svg",
   },
   {
     id: 4,
     name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    img: "./s.svg",
+    nameImg: "./streamName.svg",
   },
   {
     id: 5,
     name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    img: "./dock.svg",
+    nameImg: "./dockerName.svg",
   },
 ];
 
@@ -176,14 +176,14 @@ export const workExperience = [
     title: "SDE Intern - Java",
     desc: "Assisted in the database optimization of a web-based platform using Spring MVC, enhancing interactivity.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "./exp1.svg",
   },
   {
     id: 2,
     title: "Full Stack Developer - Intern",
     desc: "Designed and developed HTML table generator using Svelte and Figma.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "./exp2.svg",
   },
   {
     id: 3,
@@ -192,31 +192,31 @@ export const workExperience = [
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2", // change to md:col-span-2
     // thumbnail: "/exp3.svg",
-    thumbnail: "/exp4.svg",
+    thumbnail: "./exp4.svg",
   },
   // {
   //   id: 4,
   //   title: "Lead Frontend Developer",
   //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
   //   className: "md:col-span-2",
-  //   thumbnail: "/exp4.svg",
+  //   thumbnail: "./exp4.svg",
   // },
 ];
 
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "./git.svg",
     link: "www.github.com"
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "./twit.svg",
     link: "www.google.com"
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "./link.svg",
     link: "www.linkedin.com"
   },
 ];
